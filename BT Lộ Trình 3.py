@@ -2,7 +2,7 @@ import tkinter as tk
 
 root = tk.Tk()
 root.title("Quản lý Sinh viên - UHL")
-root.geometry("400x250")
+root.geometry("700x400")
 
 # --- ĐIỂM MỚI 1: Cấu hình trọng số cho cột 1 ---
 # Lệnh này nói rằng: Cột 1 có quyền chiếm lấy không gian thừa (weight=1)
