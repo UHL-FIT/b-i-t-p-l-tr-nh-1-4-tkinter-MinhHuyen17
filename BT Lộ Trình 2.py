@@ -22,7 +22,7 @@ nhan_msv = tk.Label(root, text="MSSV: 24DH080046", font=("Arial", 12), fg="red",
 nhan_msv.pack(pady=5)
 #4.Nhãn hiển thị khoa
 nhan_khoa=tk.Label(root,text="Khoa: Công nghệ thông tin",font=("Arial", 12), fg="green",bg="#f8f9fa")
-nhan_khoa.pack=(paddy=5)
+nhan_khoa.pack(pady=5)
 # 5. Tạo nút bấm để thoát chương trình
 nut_thoat = tk.Button(
     root, 
